@@ -1,5 +1,3 @@
-# Portfolio
-
 # Data Scientist
 
 ### Technical Skills: Python, SQL, AWS, MATLAB, Microsoft Asure, Linux, Network adminstrative

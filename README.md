@@ -38,6 +38,6 @@ build accurate predictive models.
 them.
 
 ### 2. Cybersecurity Job Simulation                                                                             {November 27th, 2023}
- ## Master Card 
+## Master Card 
 • Achieved logic and the working of phishing mails
 • Developed logic that was used to Interpret and design the phishing mail

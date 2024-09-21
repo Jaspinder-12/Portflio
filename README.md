@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist and Python developer
 
 ### Technical Skills: Python, SQL, AWS, MATLAB, Microsoft Asure, Linux, Network adminstrative
 
